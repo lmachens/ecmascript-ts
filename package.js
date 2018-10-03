@@ -1,6 +1,6 @@
 Package.describe({
   name: 'lmachens:ecmascript-ts',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: 'Compiler plugin that supports ES2015+ in all .ts and .tsx files',
   documentation: 'README.md',
   git: 'https://github.com/lmachens/ecmascript-ts',
