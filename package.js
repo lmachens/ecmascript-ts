@@ -19,8 +19,8 @@ Package.onUse(function (api) {
   // `ecmascript-ts` must provide the same runtime environment
   // that the 'ecmascript' package provides.
   api.imply('modules@0.12.2');
-  api.imply('ecmascript-runtime@0.5.0');
-  api.imply('babel-runtime@1.2.2');
-  api.imply('promise@0.10.1');
-  api.imply('dynamic-import@0.3.0');
+  api.imply('ecmascript-runtime@0.7.0');
+  api.imply('babel-runtime@1.2.4');
+  api.imply('promise@0.11.1');
+  api.imply('dynamic-import@0.4.2');
 });
